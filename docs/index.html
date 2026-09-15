@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>My Calendars</title>
+<style>
+  body { font: 17px/1.5 -apple-system, system-ui, sans-serif; max-width: 32rem; margin: 0 auto; padding: 2rem 1rem; color: #1d1d1f; background: #f5f5f7; }
+  h1 { font-size: 1.6rem; margin: 0 0 .25rem; }
+  p { color: #6e6e73; margin: 0 0 1.5rem; }
+  a.cal { display: flex; align-items: center; gap: .75rem; padding: 1rem; margin-bottom: .75rem; border-radius: 12px; background: #fff; color: inherit; text-decoration: none; box-shadow: 0 1px 3px rgba(0,0,0,.08); }
+  a.cal span { font-size: 1.6rem; }
+  a.cal b { display: block; }
+  a.cal small { color: #6e6e73; }
+  code { font-size: .8rem; word-break: break-all; }
+  @media (prefers-color-scheme: dark) {
+    body { color: #f5f5f7; background: #000; }
+    a.cal { background: #1c1c1e; box-shadow: none; }
+  }
+</style>
+</head>
+<body>
+<h1>My Calendars</h1>
+<p>Tap a calendar on your iPhone or Mac to subscribe. It stays up to date automatically.</p>
+
+<a class="cal" href="webcal://goofvissers.github.io/my-calendars/f1.ics">
+  <span>🏎️</span><div><b>Formula 1</b><small>All practice, sprint, qualifying and race sessions</small></div>
+</a>
+<a class="cal" href="webcal://goofvissers.github.io/my-calendars/ajax.ics">
+  <span>⚽</span><div><b>Ajax</b><small>All competitions, with results</small></div>
+</a>
+<a class="cal" href="webcal://goofvissers.github.io/my-calendars/oranje.ics">
+  <span>🇳🇱</span><div><b>Nederlands elftal</b><small>All matches, with results</small></div>
+</a>
+
+<p style="margin-top:2rem">Google Calendar: <em>Other calendars → From URL</em>, then paste one of:<br>
+<code>https://goofvissers.github.io/my-calendars/f1.ics</code><br>
+<code>https://goofvissers.github.io/my-calendars/ajax.ics</code><br>
+<code>https://goofvissers.github.io/my-calendars/oranje.ics</code></p>
+</body>
+</html>

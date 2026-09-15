@@ -1,0 +1,1160 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//goofvissers//my-calendars//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Formula 1
+X-WR-TIMEZONE:Europe/Amsterdam
+X-PUBLISHED-TTL:PT6H
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+BEGIN:VEVENT
+UID:f1-2026-1-firstpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260306T013000Z
+DTEND:20260306T023000Z
+SUMMARY:F1: Australian GP – Practice 1
+LOCATION:Albert Park Grand Prix Circuit\, Melbourne\, Australia
+DESCRIPTION:Round 1 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Australian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-1-secondpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260306T050000Z
+DTEND:20260306T060000Z
+SUMMARY:F1: Australian GP – Practice 2
+LOCATION:Albert Park Grand Prix Circuit\, Melbourne\, Australia
+DESCRIPTION:Round 1 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Australian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-1-thirdpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260307T013000Z
+DTEND:20260307T023000Z
+SUMMARY:F1: Australian GP – Practice 3
+LOCATION:Albert Park Grand Prix Circuit\, Melbourne\, Australia
+DESCRIPTION:Round 1 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Australian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-1-qualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260307T050000Z
+DTEND:20260307T060000Z
+SUMMARY:F1: Australian GP – Qualifying
+LOCATION:Albert Park Grand Prix Circuit\, Melbourne\, Australia
+DESCRIPTION:Round 1 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Australian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-1-race@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260308T040000Z
+DTEND:20260308T060000Z
+SUMMARY:F1: Australian GP – Race
+LOCATION:Albert Park Grand Prix Circuit\, Melbourne\, Australia
+DESCRIPTION:Round 1 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Australian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-2-firstpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260313T033000Z
+DTEND:20260313T043000Z
+SUMMARY:F1: Chinese GP – Practice 1
+LOCATION:Shanghai International Circuit\, Shanghai\, China
+DESCRIPTION:Round 2 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Chinese_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-2-sprintqualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260313T073000Z
+DTEND:20260313T081500Z
+SUMMARY:F1: Chinese GP – Sprint Qualifying
+LOCATION:Shanghai International Circuit\, Shanghai\, China
+DESCRIPTION:Round 2 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Chinese_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-2-sprint@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260314T030000Z
+DTEND:20260314T040000Z
+SUMMARY:F1: Chinese GP – Sprint
+LOCATION:Shanghai International Circuit\, Shanghai\, China
+DESCRIPTION:Round 2 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Chinese_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-2-qualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260314T070000Z
+DTEND:20260314T080000Z
+SUMMARY:F1: Chinese GP – Qualifying
+LOCATION:Shanghai International Circuit\, Shanghai\, China
+DESCRIPTION:Round 2 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Chinese_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-2-race@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260315T070000Z
+DTEND:20260315T090000Z
+SUMMARY:F1: Chinese GP – Race
+LOCATION:Shanghai International Circuit\, Shanghai\, China
+DESCRIPTION:Round 2 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Chinese_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-3-firstpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260327T023000Z
+DTEND:20260327T033000Z
+SUMMARY:F1: Japanese GP – Practice 1
+LOCATION:Suzuka Circuit\, Suzuka\, Japan
+DESCRIPTION:Round 3 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Japanese_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-3-secondpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260327T060000Z
+DTEND:20260327T070000Z
+SUMMARY:F1: Japanese GP – Practice 2
+LOCATION:Suzuka Circuit\, Suzuka\, Japan
+DESCRIPTION:Round 3 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Japanese_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-3-thirdpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260328T023000Z
+DTEND:20260328T033000Z
+SUMMARY:F1: Japanese GP – Practice 3
+LOCATION:Suzuka Circuit\, Suzuka\, Japan
+DESCRIPTION:Round 3 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Japanese_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-3-qualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260328T060000Z
+DTEND:20260328T070000Z
+SUMMARY:F1: Japanese GP – Qualifying
+LOCATION:Suzuka Circuit\, Suzuka\, Japan
+DESCRIPTION:Round 3 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Japanese_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-3-race@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260329T050000Z
+DTEND:20260329T070000Z
+SUMMARY:F1: Japanese GP – Race
+LOCATION:Suzuka Circuit\, Suzuka\, Japan
+DESCRIPTION:Round 3 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Japanese_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-4-firstpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260501T160000Z
+DTEND:20260501T170000Z
+SUMMARY:F1: Miami GP – Practice 1
+LOCATION:Miami International Autodrome\, Miami\, USA
+DESCRIPTION:Round 4 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Miami_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-4-sprintqualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260501T203000Z
+DTEND:20260501T211500Z
+SUMMARY:F1: Miami GP – Sprint Qualifying
+LOCATION:Miami International Autodrome\, Miami\, USA
+DESCRIPTION:Round 4 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Miami_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-4-sprint@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260502T160000Z
+DTEND:20260502T170000Z
+SUMMARY:F1: Miami GP – Sprint
+LOCATION:Miami International Autodrome\, Miami\, USA
+DESCRIPTION:Round 4 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Miami_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-4-qualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260502T200000Z
+DTEND:20260502T210000Z
+SUMMARY:F1: Miami GP – Qualifying
+LOCATION:Miami International Autodrome\, Miami\, USA
+DESCRIPTION:Round 4 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Miami_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-4-race@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260503T200000Z
+DTEND:20260503T220000Z
+SUMMARY:F1: Miami GP – Race
+LOCATION:Miami International Autodrome\, Miami\, USA
+DESCRIPTION:Round 4 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Miami_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-5-firstpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260522T163000Z
+DTEND:20260522T173000Z
+SUMMARY:F1: Canadian GP – Practice 1
+LOCATION:Circuit Gilles Villeneuve\, Montreal\, Canada
+DESCRIPTION:Round 5 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Canadian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-5-sprintqualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260522T203000Z
+DTEND:20260522T211500Z
+SUMMARY:F1: Canadian GP – Sprint Qualifying
+LOCATION:Circuit Gilles Villeneuve\, Montreal\, Canada
+DESCRIPTION:Round 5 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Canadian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-5-sprint@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260523T160000Z
+DTEND:20260523T170000Z
+SUMMARY:F1: Canadian GP – Sprint
+LOCATION:Circuit Gilles Villeneuve\, Montreal\, Canada
+DESCRIPTION:Round 5 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Canadian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-5-qualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260523T200000Z
+DTEND:20260523T210000Z
+SUMMARY:F1: Canadian GP – Qualifying
+LOCATION:Circuit Gilles Villeneuve\, Montreal\, Canada
+DESCRIPTION:Round 5 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Canadian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-5-race@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260524T200000Z
+DTEND:20260524T220000Z
+SUMMARY:F1: Canadian GP – Race
+LOCATION:Circuit Gilles Villeneuve\, Montreal\, Canada
+DESCRIPTION:Round 5 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Canadian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-6-firstpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260605T113000Z
+DTEND:20260605T123000Z
+SUMMARY:F1: Monaco GP – Practice 1
+LOCATION:Circuit de Monaco\, Monte Carlo\, Monaco
+DESCRIPTION:Round 6 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Monaco_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-6-secondpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260605T150000Z
+DTEND:20260605T160000Z
+SUMMARY:F1: Monaco GP – Practice 2
+LOCATION:Circuit de Monaco\, Monte Carlo\, Monaco
+DESCRIPTION:Round 6 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Monaco_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-6-thirdpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260606T103000Z
+DTEND:20260606T113000Z
+SUMMARY:F1: Monaco GP – Practice 3
+LOCATION:Circuit de Monaco\, Monte Carlo\, Monaco
+DESCRIPTION:Round 6 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Monaco_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-6-qualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260606T140000Z
+DTEND:20260606T150000Z
+SUMMARY:F1: Monaco GP – Qualifying
+LOCATION:Circuit de Monaco\, Monte Carlo\, Monaco
+DESCRIPTION:Round 6 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Monaco_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-6-race@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260607T130000Z
+DTEND:20260607T150000Z
+SUMMARY:F1: Monaco GP – Race
+LOCATION:Circuit de Monaco\, Monte Carlo\, Monaco
+DESCRIPTION:Round 6 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Monaco_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-7-firstpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260612T113000Z
+DTEND:20260612T123000Z
+SUMMARY:F1: Barcelona GP – Practice 1
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+DESCRIPTION:Round 7 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Barcelona-Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-7-secondpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260612T150000Z
+DTEND:20260612T160000Z
+SUMMARY:F1: Barcelona GP – Practice 2
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+DESCRIPTION:Round 7 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Barcelona-Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-7-thirdpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260613T103000Z
+DTEND:20260613T113000Z
+SUMMARY:F1: Barcelona GP – Practice 3
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+DESCRIPTION:Round 7 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Barcelona-Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-7-qualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260613T140000Z
+DTEND:20260613T150000Z
+SUMMARY:F1: Barcelona GP – Qualifying
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+DESCRIPTION:Round 7 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Barcelona-Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-7-race@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260614T130000Z
+DTEND:20260614T150000Z
+SUMMARY:F1: Barcelona GP – Race
+LOCATION:Circuit de Barcelona-Catalunya\, Barcelona\, Spain
+DESCRIPTION:Round 7 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Barcelona-Catalunya
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-8-firstpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260626T113000Z
+DTEND:20260626T123000Z
+SUMMARY:F1: Austrian GP – Practice 1
+LOCATION:Red Bull Ring\, Spielberg\, Austria
+DESCRIPTION:Round 8 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Austrian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-8-secondpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260626T150000Z
+DTEND:20260626T160000Z
+SUMMARY:F1: Austrian GP – Practice 2
+LOCATION:Red Bull Ring\, Spielberg\, Austria
+DESCRIPTION:Round 8 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Austrian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-8-thirdpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260627T103000Z
+DTEND:20260627T113000Z
+SUMMARY:F1: Austrian GP – Practice 3
+LOCATION:Red Bull Ring\, Spielberg\, Austria
+DESCRIPTION:Round 8 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Austrian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-8-qualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260627T140000Z
+DTEND:20260627T150000Z
+SUMMARY:F1: Austrian GP – Qualifying
+LOCATION:Red Bull Ring\, Spielberg\, Austria
+DESCRIPTION:Round 8 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Austrian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-8-race@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260628T130000Z
+DTEND:20260628T150000Z
+SUMMARY:F1: Austrian GP – Race
+LOCATION:Red Bull Ring\, Spielberg\, Austria
+DESCRIPTION:Round 8 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ Austrian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-9-firstpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260703T113000Z
+DTEND:20260703T123000Z
+SUMMARY:F1: British GP – Practice 1
+LOCATION:Silverstone Circuit\, Silverstone\, UK
+DESCRIPTION:Round 9 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ British_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-9-sprintqualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260703T153000Z
+DTEND:20260703T161500Z
+SUMMARY:F1: British GP – Sprint Qualifying
+LOCATION:Silverstone Circuit\, Silverstone\, UK
+DESCRIPTION:Round 9 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ British_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-9-sprint@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260704T110000Z
+DTEND:20260704T120000Z
+SUMMARY:F1: British GP – Sprint
+LOCATION:Silverstone Circuit\, Silverstone\, UK
+DESCRIPTION:Round 9 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ British_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-9-qualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260704T150000Z
+DTEND:20260704T160000Z
+SUMMARY:F1: British GP – Qualifying
+LOCATION:Silverstone Circuit\, Silverstone\, UK
+DESCRIPTION:Round 9 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ British_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-9-race@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260705T140000Z
+DTEND:20260705T160000Z
+SUMMARY:F1: British GP – Race
+LOCATION:Silverstone Circuit\, Silverstone\, UK
+DESCRIPTION:Round 9 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026_
+ British_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-10-firstpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260717T113000Z
+DTEND:20260717T123000Z
+SUMMARY:F1: Belgian GP – Practice 1
+LOCATION:Circuit de Spa-Francorchamps\, Spa\, Belgium
+DESCRIPTION:Round 10 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Belgian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-10-secondpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260717T150000Z
+DTEND:20260717T160000Z
+SUMMARY:F1: Belgian GP – Practice 2
+LOCATION:Circuit de Spa-Francorchamps\, Spa\, Belgium
+DESCRIPTION:Round 10 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Belgian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-10-thirdpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260718T103000Z
+DTEND:20260718T113000Z
+SUMMARY:F1: Belgian GP – Practice 3
+LOCATION:Circuit de Spa-Francorchamps\, Spa\, Belgium
+DESCRIPTION:Round 10 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Belgian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-10-qualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260718T140000Z
+DTEND:20260718T150000Z
+SUMMARY:F1: Belgian GP – Qualifying
+LOCATION:Circuit de Spa-Francorchamps\, Spa\, Belgium
+DESCRIPTION:Round 10 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Belgian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-10-race@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260719T130000Z
+DTEND:20260719T150000Z
+SUMMARY:F1: Belgian GP – Race
+LOCATION:Circuit de Spa-Francorchamps\, Spa\, Belgium
+DESCRIPTION:Round 10 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Belgian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-11-firstpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260724T113000Z
+DTEND:20260724T123000Z
+SUMMARY:F1: Hungarian GP – Practice 1
+LOCATION:Hungaroring\, Budapest\, Hungary
+DESCRIPTION:Round 11 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Hungarian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-11-secondpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260724T150000Z
+DTEND:20260724T160000Z
+SUMMARY:F1: Hungarian GP – Practice 2
+LOCATION:Hungaroring\, Budapest\, Hungary
+DESCRIPTION:Round 11 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Hungarian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-11-thirdpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260725T103000Z
+DTEND:20260725T113000Z
+SUMMARY:F1: Hungarian GP – Practice 3
+LOCATION:Hungaroring\, Budapest\, Hungary
+DESCRIPTION:Round 11 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Hungarian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-11-qualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260725T140000Z
+DTEND:20260725T150000Z
+SUMMARY:F1: Hungarian GP – Qualifying
+LOCATION:Hungaroring\, Budapest\, Hungary
+DESCRIPTION:Round 11 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Hungarian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-11-race@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260726T130000Z
+DTEND:20260726T150000Z
+SUMMARY:F1: Hungarian GP – Race
+LOCATION:Hungaroring\, Budapest\, Hungary
+DESCRIPTION:Round 11 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Hungarian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-12-firstpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260821T103000Z
+DTEND:20260821T113000Z
+SUMMARY:F1: Dutch GP – Practice 1
+LOCATION:Circuit Park Zandvoort\, Zandvoort\, Netherlands
+DESCRIPTION:Round 12 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Dutch_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-12-sprintqualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260821T143000Z
+DTEND:20260821T151500Z
+SUMMARY:F1: Dutch GP – Sprint Qualifying
+LOCATION:Circuit Park Zandvoort\, Zandvoort\, Netherlands
+DESCRIPTION:Round 12 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Dutch_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-12-sprint@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260822T100000Z
+DTEND:20260822T110000Z
+SUMMARY:F1: Dutch GP – Sprint
+LOCATION:Circuit Park Zandvoort\, Zandvoort\, Netherlands
+DESCRIPTION:Round 12 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Dutch_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-12-qualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260822T140000Z
+DTEND:20260822T150000Z
+SUMMARY:F1: Dutch GP – Qualifying
+LOCATION:Circuit Park Zandvoort\, Zandvoort\, Netherlands
+DESCRIPTION:Round 12 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Dutch_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-12-race@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260823T130000Z
+DTEND:20260823T150000Z
+SUMMARY:F1: Dutch GP – Race
+LOCATION:Circuit Park Zandvoort\, Zandvoort\, Netherlands
+DESCRIPTION:Round 12 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Dutch_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-13-firstpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260904T103000Z
+DTEND:20260904T113000Z
+SUMMARY:F1: Italian GP – Practice 1
+LOCATION:Autodromo Nazionale di Monza\, Monza\, Italy
+DESCRIPTION:Round 13 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Italian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-13-secondpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260904T140000Z
+DTEND:20260904T150000Z
+SUMMARY:F1: Italian GP – Practice 2
+LOCATION:Autodromo Nazionale di Monza\, Monza\, Italy
+DESCRIPTION:Round 13 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Italian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-13-thirdpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260905T103000Z
+DTEND:20260905T113000Z
+SUMMARY:F1: Italian GP – Practice 3
+LOCATION:Autodromo Nazionale di Monza\, Monza\, Italy
+DESCRIPTION:Round 13 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Italian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-13-qualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260905T140000Z
+DTEND:20260905T150000Z
+SUMMARY:F1: Italian GP – Qualifying
+LOCATION:Autodromo Nazionale di Monza\, Monza\, Italy
+DESCRIPTION:Round 13 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Italian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-13-race@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260906T130000Z
+DTEND:20260906T150000Z
+SUMMARY:F1: Italian GP – Race
+LOCATION:Autodromo Nazionale di Monza\, Monza\, Italy
+DESCRIPTION:Round 13 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Italian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-14-firstpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260911T113000Z
+DTEND:20260911T123000Z
+SUMMARY:F1: Spanish GP – Practice 1
+LOCATION:Madring\, Madrid\, Spain
+DESCRIPTION:Round 14 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Spanish_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-14-secondpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260911T150000Z
+DTEND:20260911T160000Z
+SUMMARY:F1: Spanish GP – Practice 2
+LOCATION:Madring\, Madrid\, Spain
+DESCRIPTION:Round 14 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Spanish_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-14-thirdpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260912T103000Z
+DTEND:20260912T113000Z
+SUMMARY:F1: Spanish GP – Practice 3
+LOCATION:Madring\, Madrid\, Spain
+DESCRIPTION:Round 14 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Spanish_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-14-qualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260912T140000Z
+DTEND:20260912T150000Z
+SUMMARY:F1: Spanish GP – Qualifying
+LOCATION:Madring\, Madrid\, Spain
+DESCRIPTION:Round 14 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Spanish_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-14-race@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260913T130000Z
+DTEND:20260913T150000Z
+SUMMARY:F1: Spanish GP – Race
+LOCATION:Madring\, Madrid\, Spain
+DESCRIPTION:Round 14 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Spanish_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-15-firstpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260924T083000Z
+DTEND:20260924T093000Z
+SUMMARY:F1: Azerbaijan GP – Practice 1
+LOCATION:Baku City Circuit\, Baku\, Azerbaijan
+DESCRIPTION:Round 15 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Azerbaijan_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-15-secondpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260924T120000Z
+DTEND:20260924T130000Z
+SUMMARY:F1: Azerbaijan GP – Practice 2
+LOCATION:Baku City Circuit\, Baku\, Azerbaijan
+DESCRIPTION:Round 15 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Azerbaijan_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-15-thirdpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260925T083000Z
+DTEND:20260925T093000Z
+SUMMARY:F1: Azerbaijan GP – Practice 3
+LOCATION:Baku City Circuit\, Baku\, Azerbaijan
+DESCRIPTION:Round 15 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Azerbaijan_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-15-qualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260925T120000Z
+DTEND:20260925T130000Z
+SUMMARY:F1: Azerbaijan GP – Qualifying
+LOCATION:Baku City Circuit\, Baku\, Azerbaijan
+DESCRIPTION:Round 15 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Azerbaijan_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-15-race@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20260926T110000Z
+DTEND:20260926T130000Z
+SUMMARY:F1: Azerbaijan GP – Race
+LOCATION:Baku City Circuit\, Baku\, Azerbaijan
+DESCRIPTION:Round 15 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Azerbaijan_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-16-firstpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261002T043000Z
+DTEND:20261002T053000Z
+SUMMARY:F1: Bahrain GP in Malaysia – Practice 1
+LOCATION:Sepang International Circuit\, Kuala Lumpur\, Malaysia
+DESCRIPTION:Round 16 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Bahrain_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-16-secondpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261002T080000Z
+DTEND:20261002T090000Z
+SUMMARY:F1: Bahrain GP in Malaysia – Practice 2
+LOCATION:Sepang International Circuit\, Kuala Lumpur\, Malaysia
+DESCRIPTION:Round 16 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Bahrain_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-16-thirdpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261003T043000Z
+DTEND:20261003T053000Z
+SUMMARY:F1: Bahrain GP in Malaysia – Practice 3
+LOCATION:Sepang International Circuit\, Kuala Lumpur\, Malaysia
+DESCRIPTION:Round 16 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Bahrain_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-16-qualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261003T080000Z
+DTEND:20261003T090000Z
+SUMMARY:F1: Bahrain GP in Malaysia – Qualifying
+LOCATION:Sepang International Circuit\, Kuala Lumpur\, Malaysia
+DESCRIPTION:Round 16 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Bahrain_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-16-race@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261004T070000Z
+DTEND:20261004T090000Z
+SUMMARY:F1: Bahrain GP in Malaysia – Race
+LOCATION:Sepang International Circuit\, Kuala Lumpur\, Malaysia
+DESCRIPTION:Round 16 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Bahrain_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-17-firstpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261009T083000Z
+DTEND:20261009T093000Z
+SUMMARY:F1: Singapore GP – Practice 1
+LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
+DESCRIPTION:Round 17 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Singapore_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-17-sprintqualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261009T123000Z
+DTEND:20261009T131500Z
+SUMMARY:F1: Singapore GP – Sprint Qualifying
+LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
+DESCRIPTION:Round 17 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Singapore_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-17-sprint@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261010T090000Z
+DTEND:20261010T100000Z
+SUMMARY:F1: Singapore GP – Sprint
+LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
+DESCRIPTION:Round 17 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Singapore_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-17-qualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261010T130000Z
+DTEND:20261010T140000Z
+SUMMARY:F1: Singapore GP – Qualifying
+LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
+DESCRIPTION:Round 17 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Singapore_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-17-race@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261011T120000Z
+DTEND:20261011T140000Z
+SUMMARY:F1: Singapore GP – Race
+LOCATION:Marina Bay Street Circuit\, Marina Bay\, Singapore
+DESCRIPTION:Round 17 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Singapore_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-18-firstpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261023T173000Z
+DTEND:20261023T183000Z
+SUMMARY:F1: United States GP – Practice 1
+LOCATION:Circuit of the Americas\, Austin\, USA
+DESCRIPTION:Round 18 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _United_States_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-18-secondpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261023T210000Z
+DTEND:20261023T220000Z
+SUMMARY:F1: United States GP – Practice 2
+LOCATION:Circuit of the Americas\, Austin\, USA
+DESCRIPTION:Round 18 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _United_States_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-18-thirdpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261024T173000Z
+DTEND:20261024T183000Z
+SUMMARY:F1: United States GP – Practice 3
+LOCATION:Circuit of the Americas\, Austin\, USA
+DESCRIPTION:Round 18 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _United_States_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-18-qualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261024T210000Z
+DTEND:20261024T220000Z
+SUMMARY:F1: United States GP – Qualifying
+LOCATION:Circuit of the Americas\, Austin\, USA
+DESCRIPTION:Round 18 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _United_States_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-18-race@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261025T200000Z
+DTEND:20261025T220000Z
+SUMMARY:F1: United States GP – Race
+LOCATION:Circuit of the Americas\, Austin\, USA
+DESCRIPTION:Round 18 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _United_States_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-19-firstpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261030T183000Z
+DTEND:20261030T193000Z
+SUMMARY:F1: Mexico City GP – Practice 1
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, Mexico
+DESCRIPTION:Round 19 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Mexico_City_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-19-secondpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261030T220000Z
+DTEND:20261030T230000Z
+SUMMARY:F1: Mexico City GP – Practice 2
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, Mexico
+DESCRIPTION:Round 19 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Mexico_City_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-19-thirdpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261031T173000Z
+DTEND:20261031T183000Z
+SUMMARY:F1: Mexico City GP – Practice 3
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, Mexico
+DESCRIPTION:Round 19 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Mexico_City_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-19-qualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261031T210000Z
+DTEND:20261031T220000Z
+SUMMARY:F1: Mexico City GP – Qualifying
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, Mexico
+DESCRIPTION:Round 19 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Mexico_City_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-19-race@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261101T200000Z
+DTEND:20261101T220000Z
+SUMMARY:F1: Mexico City GP – Race
+LOCATION:Autódromo Hermanos Rodríguez\, Mexico City\, Mexico
+DESCRIPTION:Round 19 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Mexico_City_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-20-firstpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261106T153000Z
+DTEND:20261106T163000Z
+SUMMARY:F1: Brazilian GP – Practice 1
+LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
+DESCRIPTION:Round 20 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Brazilian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-20-secondpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261106T190000Z
+DTEND:20261106T200000Z
+SUMMARY:F1: Brazilian GP – Practice 2
+LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
+DESCRIPTION:Round 20 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Brazilian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-20-thirdpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261107T143000Z
+DTEND:20261107T153000Z
+SUMMARY:F1: Brazilian GP – Practice 3
+LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
+DESCRIPTION:Round 20 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Brazilian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-20-qualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261107T180000Z
+DTEND:20261107T190000Z
+SUMMARY:F1: Brazilian GP – Qualifying
+LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
+DESCRIPTION:Round 20 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Brazilian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-20-race@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261108T170000Z
+DTEND:20261108T190000Z
+SUMMARY:F1: Brazilian GP – Race
+LOCATION:Autódromo José Carlos Pace\, São Paulo\, Brazil
+DESCRIPTION:Round 20 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Brazilian_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-21-firstpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261120T003000Z
+DTEND:20261120T013000Z
+SUMMARY:F1: Las Vegas GP – Practice 1
+LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
+DESCRIPTION:Round 21 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Las_Vegas_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-21-secondpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261120T040000Z
+DTEND:20261120T050000Z
+SUMMARY:F1: Las Vegas GP – Practice 2
+LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
+DESCRIPTION:Round 21 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Las_Vegas_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-21-thirdpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261121T003000Z
+DTEND:20261121T013000Z
+SUMMARY:F1: Las Vegas GP – Practice 3
+LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
+DESCRIPTION:Round 21 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Las_Vegas_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-21-qualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261121T040000Z
+DTEND:20261121T050000Z
+SUMMARY:F1: Las Vegas GP – Qualifying
+LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
+DESCRIPTION:Round 21 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Las_Vegas_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-21-race@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261122T040000Z
+DTEND:20261122T060000Z
+SUMMARY:F1: Las Vegas GP – Race
+LOCATION:Las Vegas Strip Street Circuit\, Las Vegas\, USA
+DESCRIPTION:Round 21 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Las_Vegas_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-22-firstpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261127T133000Z
+DTEND:20261127T143000Z
+SUMMARY:F1: Qatar GP – Practice 1
+LOCATION:Lusail International Circuit\, Lusail\, Qatar
+DESCRIPTION:Round 22 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Qatar_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-22-secondpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261127T170000Z
+DTEND:20261127T180000Z
+SUMMARY:F1: Qatar GP – Practice 2
+LOCATION:Lusail International Circuit\, Lusail\, Qatar
+DESCRIPTION:Round 22 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Qatar_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-22-thirdpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261128T143000Z
+DTEND:20261128T153000Z
+SUMMARY:F1: Qatar GP – Practice 3
+LOCATION:Lusail International Circuit\, Lusail\, Qatar
+DESCRIPTION:Round 22 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Qatar_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-22-qualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261128T180000Z
+DTEND:20261128T190000Z
+SUMMARY:F1: Qatar GP – Qualifying
+LOCATION:Lusail International Circuit\, Lusail\, Qatar
+DESCRIPTION:Round 22 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Qatar_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-22-race@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261129T160000Z
+DTEND:20261129T180000Z
+SUMMARY:F1: Qatar GP – Race
+LOCATION:Lusail International Circuit\, Lusail\, Qatar
+DESCRIPTION:Round 22 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Qatar_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-23-firstpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261204T093000Z
+DTEND:20261204T103000Z
+SUMMARY:F1: Abu Dhabi GP – Practice 1
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+DESCRIPTION:Round 23 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Abu_Dhabi_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-23-secondpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261204T130000Z
+DTEND:20261204T140000Z
+SUMMARY:F1: Abu Dhabi GP – Practice 2
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+DESCRIPTION:Round 23 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Abu_Dhabi_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-23-thirdpractice@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261205T103000Z
+DTEND:20261205T113000Z
+SUMMARY:F1: Abu Dhabi GP – Practice 3
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+DESCRIPTION:Round 23 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Abu_Dhabi_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-23-qualifying@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261205T140000Z
+DTEND:20261205T150000Z
+SUMMARY:F1: Abu Dhabi GP – Qualifying
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+DESCRIPTION:Round 23 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Abu_Dhabi_Grand_Prix
+END:VEVENT
+BEGIN:VEVENT
+UID:f1-2026-23-race@my-calendars.goofvissers.github.io
+DTSTAMP:20260915T110639Z
+DTSTART:20261206T130000Z
+DTEND:20261206T150000Z
+SUMMARY:F1: Abu Dhabi GP – Race
+LOCATION:Yas Marina Circuit\, Abu Dhabi\, UAE
+DESCRIPTION:Round 23 of the 2026 season\nhttps://en.wikipedia.org/wiki/2026
+ _Abu_Dhabi_Grand_Prix
+END:VEVENT
+END:VCALENDAR
