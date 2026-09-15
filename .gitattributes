@@ -1,0 +1,2 @@
+# iCalendar requires CRLF line endings; never let git convert them.
+*.ics -text
